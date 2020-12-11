@@ -12,6 +12,6 @@ The urban attributes are included:
   -- How many crime incidents are within the selected buffer zone for each location data (POINT) ?  
 
 Python Packages are included:  
-1. Geopandas, pnadas  
+1. geopandas, pandas  
 2. shapely
 
